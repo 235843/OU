@@ -11,11 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da19c782-b34a-4ef2-90d9-5b2c49d2bd73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OU.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/OU.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="da19c782-b34a-4ef2-90d9-5b2c49d2bd73" name="Default Changelist" comment="komentarz (nowa metoda policz)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,12 +66,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614359000508</updated>
-      <workItem from="1614359001674" duration="315000" />
+      <workItem from="1614359001674" duration="692000" />
     </task>
+    <task id="LOCAL-00001" summary="komentarz (nowa metoda policz)">
+      <created>1614359491650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614359491650</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="komentarz (nowa metoda policz)" />
+    <MESSAGE value="Nowa metoda policz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nowa metoda policz" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="154" key="FileChooserDialogImpl" timestamp="1614359074576">
@@ -90,21 +99,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="570" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1614359105365" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1614359117261">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1614359527388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614359117261" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1614359117260">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614359527388" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1614359527388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614359117260" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1614359117260">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614359527388" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1614359527388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614359117260" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1614359117261">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614359527388" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1614359527388">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614359117261" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614359527388" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1614359594112">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614359594112" />
   </component>
 </project>
